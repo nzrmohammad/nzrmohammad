@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,+There!+👋;I'm+Mohammad+Nazari;I'm+happy+to+meet+you,+my+dear!&center=true&font=Vazirmatn&weight=800&duration=3000&pause=1000&height=100&width=500&color=FDC435&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,+There!+👋;I'm+Mohammad&nbsp;Javad+Nazari;I'm+happy+to+meet+you,+my+dear!&center=true&font=Vazirmatn&weight=800&duration=3000&pause=1000&height=100&width=500&color=FDC435&size=30">
 </h1>
 
 ### 👨🏻‍🦱 About Me 
@@ -80,7 +80,7 @@ I am a Back-End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### 🧰 Frameworks and Libraries :
 ![Django](https://img.shields.io/badge/Django-21759B?logo=Django&logoColor=white&style=for-the-badge)
-![DRF](https://img.shields.io/badge/DRF-06B6D4?logo=DRFlogoColor=white&style=for-the-badge)
+![DRF](https://img.shields.io/badge/Django&nbsp;Rest&nbsp;Framework-06B6D4?logo=DRFlogoColor=white&style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-6332F6?logo=Bootstrap&logoColor=white&style=for-the-badge)
 
 ### 💻 Software and Tools:
