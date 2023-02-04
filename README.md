@@ -49,10 +49,10 @@ I am a Back-End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 <div width="100%" align="center">
   <a align="left" href="https://github.com/nzrmohammad/react-admin-panel" title="React Admin Panel">
-  <img align="left" width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=nzrmohammad&repo=react-admin-panel&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=ffffff">
+  <img align="left" width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=nzrmohammad&repo=First-Personal-Portfolio&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=ffffff">
   </a>
     <a align="right" href="https://github.com/nzrmohammad/adminpanel" title="Admin Panel">
-   <img align="right" width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=nzrmohammad&repo=adminpanel&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=fff">
+   <img align="right" width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=nzrmohammad&repo=First-Personal-Restaurant&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=fff">
   </a>
 </div>
 
