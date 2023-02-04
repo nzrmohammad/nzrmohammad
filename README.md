@@ -1,33 +1,92 @@
-<h1 align="center">Hi 👋, I'm Mohammad Javad Nazari</h1>
-<h3 align="center">A passionate frontend developer from Iran</h3>
-<img align="center" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,+There!+👋;I'm+Peyman+Naderi;I'm+happy+to+meet+you,+my+dear!&center=true&font=Vazirmatn&weight=800&duration=3000&pause=1000&height=100&width=500&color=FDC435&size=30">
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nzrmohammad&label=Profile%20views&color=0e75b6&style=flat" alt="nzrmohammad" /> </p>
+### 👨🏻‍🦱 About Me 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nzrmohammad" alt="nzrmohammad" /></a> </p>
+I am a Back-End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 🔭 As a Back-End developer, I create web applications.
+- ⚡ In my free time, I solve problems on [nzrmohammad](<https://nzrmohammad.pythonanywhere.com/> "nzrmohammad") and read tech articles.
 
-- 🔭 I’m currently working on [A](www.google.com)
+---
 
-- 🌱 I’m currently learning **Python, Django, Django Rest Framework**
+### 📌 My Social
 
-- 💬 Ask me about **Python, Django, Django Rest Framework**
+<div align="center">
+    
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=Linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=for-the-badge)](https://github.com/nzrmohammad)
+[![Stack Overflow](https://img.shields.io/badge/Stack&nbsp;Overflow-F58025?logo=StackOverflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/#)
+[![WebSite](https://img.shields.io/badge/WebSite-21759B?logo=WordPress&logoColor=white&style=for-the-badge)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:mohammad.nzr77@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-229ED9?logo=Telegram&logoColor=white&style=for-the-badge)](https://t.me/nzrmohammad)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/#)
+    
+</div>
 
-- 📫 How to reach me **mohammad.nazari@live.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.hackerrank.com/mohammad_nazari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mohammad_nazari" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nzrmohammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nzrmohammad" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@mohammad2130" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@mohammad2130" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+### 📌 Solve a Coding Question
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nzrmohammad&show_icons=true&locale=en&layout=compact" alt="nzrmohammad" /></p>
+<div align="center">
+    
+[![hackerrank](https://img.shields.io/badge/Hackerrank-21759B?logo=Hackerrank&logoColor=white&style=for-the-badge)](https://www.linkedin.com/#)
+[![Leetcode](https://img.shields.io/badge/Leetcode-181717?logo=Leetcode&logoColor=white&style=for-the-badge)](https://github.com/nzrmohammad)
+[![Hackerearth](https://img.shields.io/badge/Hackerearth-F58025?logo=Hackerearth&logoColor=white&style=for-the-badge)](https://stackoverflow.com/#)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nzrmohammad&show_icons=true&locale=en" alt="nzrmohammad" /></p>
+    
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nzrmohammad&" alt="nzrmohammad" /></p>
+---
+
+
+
+### 📈 My Best Repo :
+
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/nzrmohammad/react-admin-panel" title="React Admin Panel">
+  <img align="left" width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=nzrmohammad&repo=react-admin-panel&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=ffffff">
+  </a>
+    <a align="right" href="https://github.com/nzrmohammad/adminpanel" title="Admin Panel">
+   <img align="right" width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=nzrmohammad&repo=adminpanel&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=fff">
+  </a>
+</div>
+
+<br/><br/><br/><br/><br/><br/>
+
+
+
+---
+
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> My Stats :
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nzrmohammad&show_icons=true&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=fff)
+
+---
+
+### 🛠  Languages :
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nzrmohammad&layout=compact)
+
+### 👨‍💻 Programming and Markup Language :
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=for-the-badge)
+![Python](https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=white&style=for-the-badge)
+
+### 🧰 Frameworks and Libraries :
+![Django](https://img.shields.io/badge/WordPress-21759B?logo=WordPress&logoColor=white&style=for-the-badge)
+![Django Rest Framework](https://img.shields.io/badge/Tailwind&nbsp;CSS-06B6D4?logo=TailwindCSS&logoColor=white&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Swiper-6332F6?logo=Swiper&logoColor=white&style=for-the-badge)
+
+### 💻 Software and Tools:
+![Visual Studio Code](https://img.shields.io/badge/Visual&nbsp;Studio&nbsp;Code-007ACC?logo=VisualStudioCode&logoColor=white&style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white&style=for-the-badge)
+![Pycharm](https://img.shields.io/badge/Adobe&nbsp;Illustrator-FF9A00?logo=AdobeIllustrator&logoColor=white&style=for-the-badge)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe&nbsp;Photoshop-31A8FF?logo=AdobePhotoshop&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=for-the-badge)
+![Matlab](https://img.shields.io/badge/GitHub&nbsp;Desktop-8034a9?logo=GitHub&logoColor=white&style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=white&style=for-the-badge)
