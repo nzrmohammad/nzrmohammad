@@ -34,9 +34,9 @@ I am a Back-End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 <div align="center">
     
-[![hackerrank](https://img.shields.io/badge/Hackerrank-21759B?logo=Hackerrank&logoColor=white&style=for-the-badge)](https://www.linkedin.com/#)
-[![Leetcode](https://img.shields.io/badge/Leetcode-181717?logo=Leetcode&logoColor=white&style=for-the-badge)](https://github.com/nzrmohammad)
-[![Hackerearth](https://img.shields.io/badge/Hackerearth-F58025?logo=Hackerearth&logoColor=white&style=for-the-badge)](https://stackoverflow.com/#)
+[![hackerrank](https://img.shields.io/badge/Hackerrank-21759B?logo=Hackerrank&logoColor=white&style=for-the-badge)](www.hackerrank.com/mohammad_nazari)
+[![Leetcode](https://img.shields.io/badge/Leetcode-181717?logo=Leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/nzrmohammad/)
+[![Hackerearth](https://img.shields.io/badge/Hackerearth-F58025?logo=Hackerearth&logoColor=white&style=for-the-badge)]([https://stackoverflow.com/#](https://www.hackerearth.com/@mohammad2130))
 
     
 </div>
@@ -80,7 +80,7 @@ I am a Back-End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### 🧰 Frameworks and Libraries :
 ![Django](https://img.shields.io/badge/Django-21759B?logo=Django&logoColor=white&style=for-the-badge)
-![Django Rest Framework](https://img.shields.io/badge/DjangoRestFramework-06B6D4?logo=DjangonRestFrameworknbsplogoColor=white&style=for-the-badge)
+![Django Rest Framework](https://img.shields.io/badge/DjangoRestFramework-06B6D4?logo=DjangonRestFrameworklogoColor=white&style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-6332F6?logo=Bootstrap&logoColor=white&style=for-the-badge)
 
 ### 💻 Software and Tools:
