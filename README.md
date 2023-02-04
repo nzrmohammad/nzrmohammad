@@ -28,8 +28,6 @@ I am a Back-End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ---
 
----
-
 ### 📌 Solve a Coding Question
 
 <div align="center">
