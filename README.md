@@ -73,14 +73,14 @@ I am a Back-End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### 👨‍💻 Programming and Markup Language :
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-777BB4?logo=Python&logoColor=white&style=for-the-badge)
 
 ### 🧰 Frameworks and Libraries :
 ![Django](https://img.shields.io/badge/Django-21759B?logo=Django&logoColor=white&style=for-the-badge)
-![Django Rest Framework](https://img.shields.io/badge/DjangoRestFramework-06B6D4?logo=DjangonRestFrameworklogoColor=white&style=for-the-badge)
+![DRF](https://img.shields.io/badge/DRF-06B6D4?logo=DRFlogoColor=white&style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-6332F6?logo=Bootstrap&logoColor=white&style=for-the-badge)
 
 ### 💻 Software and Tools:
