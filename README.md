@@ -114,14 +114,13 @@ I am a Back-End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/nzrmohammad/Gitwar"><b>🚀 Gitwar</b></a></td>
+	<td><a href="https://github.com/nzrmohammad/Gitwar"><b>🚀 Gitwar</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/nzrmohammad/Gitwar?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/nzrmohammad/Gitwar?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/nzrmohammad/Gitwar?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/nzrmohammad/Gitwar?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/nzrmohammad/Gitwar?style=flat-square"/></td>
       </tr>
-
     </tbody>
   </table>
   <br />
