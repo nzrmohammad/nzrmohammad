@@ -48,10 +48,10 @@ I am a Back-End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ### 📈 My Best Repo :
 
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/nzrmohammad/react-admin-panel" title="React Admin Panel">
+  <a align="left" href="https://github.com/nzrmohammad/First-Personal-Portfolio" title="First-Personal-Portfolio">
   <img align="left" width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=nzrmohammad&repo=First-Personal-Portfolio&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=ffffff">
   </a>
-    <a align="right" href="https://github.com/nzrmohammad/adminpanel" title="Admin Panel">
+    <a align="right" href="https://github.com/nzrmohammad/First-Personal-Restaurant" title="First-Personal-Restaurant">
    <img align="right" width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=nzrmohammad&repo=First-Personal-Restaurant&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=fff">
   </a>
 </div>
