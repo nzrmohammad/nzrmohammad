@@ -76,18 +76,18 @@ I am a Back-End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=for-the-badge)
-![Python](https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-777BB4?logo=Python&logoColor=white&style=for-the-badge)
 
 ### 🧰 Frameworks and Libraries :
-![Django](https://img.shields.io/badge/WordPress-21759B?logo=WordPress&logoColor=white&style=for-the-badge)
-![Django Rest Framework](https://img.shields.io/badge/Tailwind&nbsp;CSS-06B6D4?logo=TailwindCSS&logoColor=white&style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/Swiper-6332F6?logo=Swiper&logoColor=white&style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-21759B?logo=Django&logoColor=white&style=for-the-badge)
+![Django Rest Framework](https://img.shields.io/badge/DjangoRestFramework-06B6D4?logo=DjangonRestFrameworknbsplogoColor=white&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-6332F6?logo=Bootstrap&logoColor=white&style=for-the-badge)
 
 ### 💻 Software and Tools:
 ![Visual Studio Code](https://img.shields.io/badge/Visual&nbsp;Studio&nbsp;Code-007ACC?logo=VisualStudioCode&logoColor=white&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white&style=for-the-badge)
-![Pycharm](https://img.shields.io/badge/Adobe&nbsp;Illustrator-FF9A00?logo=AdobeIllustrator&logoColor=white&style=for-the-badge)
+![Pycharm](https://img.shields.io/badge/Pycharm-FF9A00?logo=Pycharm&logoColor=white&style=for-the-badge)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe&nbsp;Photoshop-31A8FF?logo=AdobePhotoshop&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=for-the-badge)
-![Matlab](https://img.shields.io/badge/GitHub&nbsp;Desktop-8034a9?logo=GitHub&logoColor=white&style=for-the-badge)
+![Matlab](https://img.shields.io/badge/Matlab-8034a9?logo=Matlab&logoColor=white&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=white&style=for-the-badge)
