@@ -23,6 +23,8 @@ I am a Back-End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   </tr>
 </table>
 
+---
+
 ### 📌 My Social
 
 <div align="center">
