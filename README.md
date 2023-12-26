@@ -1,17 +1,27 @@
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,+There!+👋;I'm+Mohammad&nbsp;Javad+Nazari;I'm+happy+to+meet+you,+my+dear!&center=true&font=Vazirmatn&weight=800&duration=3000&pause=1000&height=100&width=500&color=FDC435&size=30">
 </h1>
 
 ### 👨🏻‍🦱 About Me 
 ![](https://visitor-badge.glitch.me/badge?page_id=nzrmohammad.nzrmohammad&style=flat-square&color=0088cc)
-
 I am a Back-End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran. 
 
 - 🔭 As a Back-End developer, I create web applications.
 - ⚡ In my free time, I solve problems on [nzrmohammad](<https://nzrmohammad.pythonanywhere.com/> "nzrmohammad") and read tech articles.
-
 ---
+<table align="center">
+  <tr>
+    <td>
+      <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=nzrmohammad&column=2"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=nzrmohammad&count_private=true&show_icons=true&theme=chartreuse-dark"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzrmohammad&layout=compact&theme=chartreuse-dark&langs_count=8"/>
+    </td>
+  </tr>
+</table>
 
 ### 📌 My Social
 
