@@ -2,8 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,+There!+👋;I'm+Mohammad&nbsp;Javad+Nazari;I'm+happy+to+meet+you,+my+dear!&center=true&font=Vazirmatn&weight=800&duration=3000&pause=1000&height=100&width=500&color=FDC435&size=30">
 </h1>
 
-![](https://komarev.com/ghpvc/?username=nzrmohammad)
-
 ### 👨🏻‍🦱 About Me 
 ![](https://visitor-badge.glitch.me/badge?page_id=nzrmohammad.nzrmohammad&style=flat-square&color=0088cc)
 I am a Back-End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran. 
