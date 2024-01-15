@@ -98,6 +98,7 @@ I am a Back-End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 <details>	
   <summary><b>⚡Github Stats</b></summary>
+	
 	<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nzrmohammad&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
@@ -106,6 +107,7 @@ I am a Back-End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
+	
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nzrmohammad&hide_border=true" />
 </details>
