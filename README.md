@@ -54,8 +54,6 @@ I am a Back-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ---
 
-
-
 ### 📈 My Best Repo :
 
 <div align="center">
@@ -67,7 +65,6 @@ I am a Back-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   </a>
 </div>
 
-<br/><br/><br/><br/><br/><br/>
 
 ---
 
