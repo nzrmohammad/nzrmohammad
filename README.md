@@ -6,7 +6,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=nzrmohammad.nzrmohammad&style=flat-square&color=0088cc)
 I am a Back-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> From Iran. 
 
-- 🔭 As a Back-End developer, I create web applications.
+- 🔭 As a Back-End Developer, I Create Web Applications.
 - ⚡ In my free time, I solve problems on [nzrmohammad](<https://nzrmohammad.pythonanywhere.com/> "nzrmohammad") and read tech articles.
 ---
 <table align="center">
