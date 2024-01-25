@@ -58,12 +58,12 @@ I am a Back-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### 📈 My Best Repo :
 
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/nzrmohammad/First-Personal-Portfolio" title="First-Personal-Portfolio">
-  <img align="left" width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=nzrmohammad&repo=First-Personal-Portfolio&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=ffffff" alt="Personal-Restaurant Repo" width="400" height="140">
+<div align="center">
+  <a href="https://github.com/nzrmohammad/First-Personal-Portfolio" title="First-Personal-Portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nzrmohammad&repo=First-Personal-Portfolio&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=ffffff" alt="Personal-Restaurant Repo" width="400" height="140">
   </a>
-    <a align="right" href="https://github.com/nzrmohammad/First-Personal-Restaurant" title="First-Personal-Restaurant">
-   <img align="right" width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=nzrmohammad&repo=First-Personal-Restaurant&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=fff" alt="Resume-1" width="400" height="140">
+    <a href="https://github.com/nzrmohammad/First-Personal-Restaurant" title="First-Personal-Restaurant">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=nzrmohammad&repo=First-Personal-Restaurant&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=fff" alt="Resume-1" width="400" height="140">
   </a>
 </div>
 
